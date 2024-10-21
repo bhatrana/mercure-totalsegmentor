@@ -1,2 +1,2 @@
 build:
-	docker build . -t mercureimaging/mercure-totalsegmentator:v2
+	docker build . -t ranabhat/mercure-totalsegmentator:latest
